@@ -1,4 +1,4 @@
-flappy bird themed c# learning project in windows top.
+flappy bird themed c# learning project in windows form.
 Aimed to learn;
 - How to use picture box in visual studio
 - How to use functions in C#
