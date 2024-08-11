@@ -1,0 +1,17 @@
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\bin\Release\net8.0-windows\Flappy_Bird.exe
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\bin\Release\net8.0-windows\Flappy_Bird.deps.json
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\bin\Release\net8.0-windows\Flappy_Bird.runtimeconfig.json
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\bin\Release\net8.0-windows\Flappy_Bird.dll
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\bin\Release\net8.0-windows\Flappy_Bird.pdb
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.Form1.resources
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.Properties.Resources.resources
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.AssemblyInfoInputs.cache
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.AssemblyInfo.cs
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.dll
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\refint\Flappy_Bird.dll
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.pdb
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\Flappy_Bird.genruntimeconfig.cache
+C:\Users\mrt_k\Desktop\Flappy_Bird\Flappy_Bird\obj\Release\net8.0-windows\ref\Flappy_Bird.dll
